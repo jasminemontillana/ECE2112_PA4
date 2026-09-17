@@ -96,6 +96,10 @@ Data Intrepretation Statements:
 2. Male students had the highest sample mean Average among genders.
 3. Across regions, Luzon recorded the highest sample mean Average.
 
+---END OF README FILE---
+
+To access the main Google Colab Notebook for Programming Assignment 4, click this link: https://colab.research.google.com/github/jasminemontillana/ECE2112_PA4/blob/main/Programming_Assignment_4.ipynb
+
 **README File Version History**
 September 17, 2026 Initial Commit & Full Documentation for Experiment 4
 
