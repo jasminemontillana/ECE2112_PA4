@@ -81,7 +81,6 @@ axes[2].set_xlabel('Hometown')
 plt.tight_layout()
 plt.show()
 
-# Interpretation statements based on computed data
 print('1. Communication had the highest sample mean Average among all the tracks.')
 print('2. Male students had the highest sample mean Average among genders.')
 print('3. Across regions, Luzon recorded the highest sample mean Average.')
@@ -93,11 +92,10 @@ Gender Means: Male (67.183) | Female (66.617)
 Hometown Means: Luzon (68.083) | Mindanao (66.679) | Visayas (65.750)
 
 Data Intrepretation Statements:
-```
-print('1. Communication had the highest sample mean Average among all the tracks.')
-print('2. Male students had the highest sample mean Average among genders.')
-print('3. Across regions, Luzon recorded the highest sample mean Average.')
-```
+1. Communication had the highest sample mean Average among all the tracks.
+2. Male students had the highest sample mean Average among genders.
+3. Across regions, Luzon recorded the highest sample mean Average.
+
 **README File Version History**
 September 17, 2026 Initial Commit & Full Documentation for Experiment 4
 
